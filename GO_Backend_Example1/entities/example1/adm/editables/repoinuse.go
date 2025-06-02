@@ -1,8 +1,8 @@
 package editables
 
 import (
-	"github.com/reizzao/backendgo/entities/example1/repositories"
-	types "github.com/reizzao/backendgo/entities/example1/types"
+	"github.com/reizzao/dotclones/coder-templates/GO_Backend_Example1/entities/example1/repositories"
+	types "github.com/reizzao/dotclones/coder-templates/GO_Backend_Example1/entities/example1/types"
 )
 
 type Example1OptionsRepoinuse struct {

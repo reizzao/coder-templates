@@ -3,7 +3,7 @@ package create
 import (
 	"fmt"
 
-	data "github.com/reizzao/backendgo/entities/example1/data"
+	data "github.com/reizzao/dotclones/coder-templates/GO_Backend_Example1/entities/example1/data"
 )
 
 func TesterCreate() {

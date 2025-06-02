@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	tt_create_example1 "github.com/reizzao/backendgo/entities/example1/usecases/create"
+	tt_create_example1 "github.com/reizzao/dotclones/coder-templates/GO_Backend_Example1/entities/example1/usecases/create"
 )
 
 func main() {
@@ -17,3 +17,5 @@ func main() {
 	fmt.Println(msg)
 
 }
+
+// foo

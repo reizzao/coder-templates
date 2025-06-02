@@ -1,0 +1,16 @@
+package create
+
+import (
+	"testing"
+)
+
+// var sut = prepareCreate
+
+func Test_(t *testing.T) {
+	tested := "//sut()"
+	expected := "//sut()"
+
+	if tested != expected {
+		t.Errorf("Ops... Retornado {{ %v }} na Funcao __ o esperado é {{ %v }}.", expected, tested)
+	}
+}
